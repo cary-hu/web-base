@@ -1,0 +1,9 @@
+﻿PublishProfiles
+bin
+obj
+.vs
+*.csproj.user
+node_modules
+dist
+wwwroot/
+appsettings.Development.json
